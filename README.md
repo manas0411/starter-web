@@ -1,7 +1,5 @@
-# Starter Web Repo
+# practice project
 
-This repository is for showing how Git and GitHub work
+## purpose
 
-## Purpose
-
-Sample website with plenty of files for demos
+time pass
